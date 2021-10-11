@@ -1,5 +1,5 @@
 ## Hello Eveyone 👋, I'm [Aayush Harwani](https://www.linkedin.com/in/aayushadhh/)
-![](https://komarev.com/ghpvc/?username=Aayushadh)
+![](https://komarev.com/ghpvc/?username=Aayushadh&color=red)
 
 - Hey, I am pursuing B.Tech in Computer Science and Engineering from [Rashtriya Raksha University](https://rru.ac.in), Gandhinagar, Gujarat. 
 - I am a problem solver 🤔 and Software developer.
