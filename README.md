@@ -1,9 +1,9 @@
 ## Hello Eveyone 👋, I'm [Aayush Harwani](https://www.linkedin.com/in/aayushadhh/)
 ![](https://komarev.com/ghpvc/?username=Aayushadh&color=red)
 
-- Hey, I am pursuing B.Tech in Computer Science and Engineering from [Rashtriya Raksha University](https://rru.ac.in), Gandhinagar, Gujarat. 
-- I am a problem solver 🤔 and Software developer.
-- I am Expert on [CodeForces](https://codeforces.com/) and [ICPC](https://icpc.global/) Regionalist'20
+- Hey, I am working as SDE2(devops) at [AiDash](https://www.aidash.com), Bengaluru, Karnataka. 
+- I am a problem solver 🤔 and always up for new challenges.
+- Regarding my coding profile, I am Expert on [CodeForces](https://codeforces.com/) and [ICPC](https://icpc.global/) Regionalist'20
 
 <!-- display the social media buttons in your README -->
 
@@ -36,8 +36,9 @@
 
 ### Summary 
 
-- Strong in DSA and Development with intuitive problem-solving skills.
-- Proficient in C++, JAVASCRIPT, ReactJS, NodeJS and SQL. 
+- Strong in DSA and have strong AWS cloud knowledge.
+- Accidentally got inclined towards DevOps
+- Proficient in C++, Python, JAVASCRIPT, ReactJS, NodeJS and SQL. 
 - Passionate about learning new technologies and implementing and launching projects. 
 - Ability to translate business requirements into technical solutions. 
 
